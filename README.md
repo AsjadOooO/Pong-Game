@@ -4,11 +4,15 @@
 
 ### How to run it 
 
--  git clone https://github.com/AsjadOwO/
+-  git clone https://github.com/AsjadOooO/Pong-Game.git
 
 - cd pong-game
 
 - python main.py
+
+
+### Preview
+![image](https://github.com/AsjadOooO/Pong-Game/blob/main/image.png)
 
 
 ### Developer 
